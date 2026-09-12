@@ -1,3 +1,3 @@
 # Description
 
-Creating project2 on llocal system and then into git
+Creating project2 on local system and then into git.
